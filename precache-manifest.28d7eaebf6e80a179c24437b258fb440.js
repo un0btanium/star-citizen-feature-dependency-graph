@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5afea090087ae4764ffbc3a0fb441a6",
+    "revision": "a6caf25fb723fb72b27905f6508ee4e4",
     "url": "/star-citizen-feature-dependency-graph/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/star-citizen-feature-dependency-graph/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "1b62e60bacd715d920ec",
+    "revision": "36f3844bd0cecbbf5d0d",
     "url": "/star-citizen-feature-dependency-graph/static/css/main.0431b575.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/star-citizen-feature-dependency-graph/static/js/2.3348e8e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b62e60bacd715d920ec",
-    "url": "/star-citizen-feature-dependency-graph/static/js/main.ff512053.chunk.js"
+    "revision": "36f3844bd0cecbbf5d0d",
+    "url": "/star-citizen-feature-dependency-graph/static/js/main.9dd0c523.chunk.js"
   },
   {
     "revision": "d0814e4ae1c1c4ba9e08",

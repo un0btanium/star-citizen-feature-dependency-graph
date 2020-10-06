@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/star-citizen-feature-dependency-graph/precache-manifest.44b8969e8b693d1a1d6fcfc3a5caf8f6.js"
+  "/star-citizen-feature-dependency-graph/precache-manifest.28d7eaebf6e80a179c24437b258fb440.js"
 );
 
 self.addEventListener('message', (event) => {
